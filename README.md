@@ -20,7 +20,7 @@
 
 ## 主题演示地址
 
-- [小 A 猪崽](https://nav.xazz.top/)
+- [小 A 猪崽](https://nav.wjgong.us.kg/)
   
 | 完成度      | 自定义修改 | 
 | :---       |   :----:  | 
