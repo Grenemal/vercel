@@ -2,55 +2,26 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 包小报
+    - title: 宝小报
       logo: haidao.ico
       url: http://baoxiaobao.asia/baoxiaobao.html
       description: 聚合应用介绍
+    - title: 不死鸟分享
+      logo: iui.ico
+      url: http://iui.su
+      description: 不死鸟分享为王
     - title: Chatgpt镜像
       logo: chatgpt.ico
       url: https://gpt.anrsn.icu/
       description: 不需要加速也能上
-    - title: Steam
-      logo: steam.ico
-      url: https://store.steampowered.com/
-      description: 大伙都在玩的游戏平台
-    - title: 哔哩哔哩
-      logo: 哔哩哔哩.ico
-      url: https://www.bilibili.com/
-      description: Bilibili 视频弹幕网站
     - title: GitHub
       logo: github.ico
-      url: https://github.com/sunshine504
-      description: 导航站GitHub开源
-    - title: youtube
-      logo: gitee.ico
-      url: https://youtube.com
-      description: gitee开源
+      url: https://github.com/Grenemal
+      description: Grenemal的github
     - title: Chatgpt
       logo: openai.ico
       url: https://chat.openai.com/
       description: OpeanAi官方
-    - title: OSHWhub
-      logo: OSHWhub.ico
-      url: https://oshwhub.com/
-      description: 立创开源平台
-    - title: 关于我
-      logo: 关于我.ico
-      url: https://doks.xazz.top/blog/
-      qrcode: assets/images/my.png
-      description: 站长的个人介绍
-    - title: Thingiverse
-      logo: Thingiverse.ico
-      url: https://www.thingiverse.com/
-      description: Thingiverse
-    - title: Printables
-      logo: Printables.ico
-      url: https://www.printables.com/
-      description: Printables
-    - title: Makerworl
-      logo: Makerworld.ico
-      url: https://makerworld.com/zh
-      description: Makerworl
 
 - taxonomy: AI工具
   icon: fas fa-laptop-code fa-lg
