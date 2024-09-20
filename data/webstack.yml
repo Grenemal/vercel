@@ -137,7 +137,7 @@
         url: https://analytical.chem.ut.ee/HA_UT/
         description: pka查询网站    
       - title: SDBS
-        logo: acue.png
+        logo: SDBS.png
         url: https://sdbs.db.aist.go.jp/
         description: 有机化合物光谱查询网站   
       - title: 元素信息网站
@@ -145,15 +145,15 @@
         url: https://www.webelements.com/
         description: 元素信息查询网站   
       - title: FDM FTIR Raman
-        logo: fdm.ico
+        logo: FDMS.png
         url: https://www.fdmspectra.com/
         description: 红外光谱和拉曼光谱数据库
-      - title: ChemNMR
-        logo: fdm.ico
+      - title: NMR Lab
+        logo: nmr.png
         url: https://chem.ch.huji.ac.il/nmr/index.html
         description: 核磁数据和教程网站 
       - title: Bindfit
-        logo: fdm.ico
+        logo: fit.png
         url: http://app.supramolecular.org/bindfit/
         description: 在线超分子化学滴定拟合程序
       - title: 光谱浏览器
