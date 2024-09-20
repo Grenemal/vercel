@@ -91,6 +91,7 @@
   icon: fas fa-atom-alt
   list:
     - term: 文章写作
+      links:
       - title: 术语在线
         logo: shuyu.png
         url: https://www.termonline.cn/
@@ -104,6 +105,7 @@
         url: https://www.phrasebank.manchester.ac.uk/
         description: 找到合适的表达的方式
     - term: 有机合成
+      links:
       - title: orgsyn
         logo: orgsyn.ico
         url: https://orgsyn.org/
@@ -121,6 +123,7 @@
         url: https://organicchemistrydata.org/
         description: 实用的有机合成数据教程网站
     - term: 学术数据库
+      links:
       - title: NMRS
         logo: nmrs.ico
         url: https://www.nmrs.io/
@@ -141,7 +144,6 @@
         logo: fdm.ico
         url: https://www.fdmspectra.com/
         description: 红外光谱和拉曼光谱数据库
-
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
