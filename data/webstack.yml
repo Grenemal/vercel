@@ -22,7 +22,6 @@
       logo: github.ico
       url: https://github.com/Grenemal
       description: Grenemal的github
-
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
@@ -48,7 +47,6 @@
           logo: renxinghua.ico
           url: https://humanize.im/
           description: 将AI生成的文本变成更加人性化的语言      
-
     - term: 办公学习
       links:
         - title: Markdown
@@ -67,7 +65,6 @@
           logo: handian.ico
           url: https://www.zdic.net/
           description: 汉语学习好网站
-
     - term: 在线工具
       links:
         - title: 正则表达式
@@ -90,9 +87,8 @@
           url: https://cli.im/
           logo: cli.ico
           description: 自定义二维码生成
-
 - taxonomy: 科研工具
-  icon: fad fa-atom-alt
+  icon: fas fa-atom-alt
   list:
     - term: 文章写作
       - title: 术语在线
