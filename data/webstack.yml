@@ -101,21 +101,21 @@
         url: https://www.thesaurus.com/
         description: 相同词找替代
       - title: 学术短语写作
-        logo: thesaurus.png
+        logo: AP.ico
         url: https://www.phrasebank.manchester.ac.uk/
         description: 找到合适的表达的方式
     - term: 有机合成
       links:
-      - title: orgsyn
+      - title: Orgsyn
         logo: orgsyn.ico
         url: https://orgsyn.org/
         description: 有机合成最丰富最靠谱的网站
-      - title: organic-chemistry
+      - title: Orghemistry
         logo: organicchemistry.ico
         url: https://www.organic-chemistry.org/
         description: 类型丰富的有机合成教程
-      - title: commonorganicchemistry
-        logo: coc.jpg
+      - title: CommOrgChem
+        logo: coc.ico
         url: https://commonorganicchemistry.com/index.htm
         description: 实用的有机合成网站
       - title: organicchemistrydata
