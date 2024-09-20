@@ -92,7 +92,7 @@
           logo: favicon.png
           description: 自定义二维码生成
 - taxonomy: 科研工具
-  icon: fas fa-atom-alt fa-lg
+  icon: fas fa-laptop-code fa-lg
   list:
     - term: 文章写作
       links:
@@ -122,7 +122,7 @@
         logo: coc.png
         url: https://commonorganicchemistry.com/index.htm
         description: 实用的有机合成网站
-      - title: organicchemistrydata
+      - title: OrgChemData
         logo: ocd.ico
         url: https://organicchemistrydata.org/
         description: 实用的有机合成数据教程网站
