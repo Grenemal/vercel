@@ -159,7 +159,7 @@
       - title: 光谱浏览器
         logo: aatbio.ico
         url: https://www.aatbio.com/fluorescence-excitation-emission-spectrum-graph-viewer
-        description: 在线超分子化学滴定拟合程序
+        description: 在线浏览不同荧光材料的光谱
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
