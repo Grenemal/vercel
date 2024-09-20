@@ -138,9 +138,13 @@
         url: https://sdbs.db.aist.go.jp/
         description: 有机化合物光谱查询网站   
       - title: 元素信息网站
-        logo: webelements
+        logo: webelements.ico
         url: https://www.webelements.com/
         description: 元素信息查询网站   
+      - title: FDM FTIR Raman
+        logo: fdm.ico
+        url: https://www.fdmspectra.com/
+        description: 红外光谱和拉曼光谱数据库
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
