@@ -51,10 +51,6 @@
 
     - term: 办公学习
       links:
-        - title: GitHub
-          logo: github.ico
-          url: https://github.com/
-          description: 最热门知名的开源网站
         - title: Markdown
           logo: markdown.ico
           url: https://markdown.com.cn/
@@ -86,10 +82,6 @@
           logo: fluorish.ico
           url: https://app.flourish.studio/
           description: 图标可视化网站
-        - title: Deepl翻译
-          logo: deepl.png
-          url: https://www.deepl.com/
-          description: Deepl翻译
         - title: Xmind
           logo: xmind.ico
           url: https://xmind.cn/
@@ -99,6 +91,56 @@
           logo: cli.ico
           description: 自定义二维码生成
 
+- taxonomy: 科研工具
+  icon: fad fa-atom-alt
+  list:
+    - term: 文章写作
+      - title: 术语在线
+        logo: shuyu.png
+        url: https://www.termonline.cn/
+        description: 最权威的术语翻译网站
+      - title: 同反义词查询
+        logo: thesaurus.png
+        url: https://www.thesaurus.com/
+        description: 相同词找替代
+      - title: 学术短语写作
+        logo: thesaurus.png
+        url: https://www.phrasebank.manchester.ac.uk/
+        description: 找到合适的表达的方式
+    - term: 有机合成
+      - title: orgsyn
+        logo: orgsyn.ico
+        url: https://orgsyn.org/
+        description: 有机合成最丰富最靠谱的网站
+      - title: organic-chemistry
+        logo: organicchemistry.ico
+        url: https://www.organic-chemistry.org/
+        description: 类型丰富的有机合成教程
+      - title: commonorganicchemistry
+        logo: coc.jpg
+        url: https://commonorganicchemistry.com/index.htm
+        description: 实用的有机合成网站
+      - title: organicchemistrydata
+        logo: ocd.ico
+        url: https://organicchemistrydata.org/
+        description: 实用的有机合成数据教程网站
+    - term: 学术数据库
+      - title: NMRS
+        logo: nmrs.ico
+        url: https://www.nmrs.io/
+        description: 核磁数据和教程网站     
+      - title: pka
+        logo: acue.png
+        url: https://analytical.chem.ut.ee/HA_UT/
+        description: pka查询网站    
+      - title: SDBS
+        logo: acue.png
+        url: https://sdbs.db.aist.go.jp/
+        description: 有机化合物光谱查询网站   
+      - title: 元素信息网站
+        logo: webelements
+        url: https://www.webelements.com/
+        description: 元素信息查询网站   
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
