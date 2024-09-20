@@ -525,6 +525,14 @@
           url: https://www.52pojie.cn/
           logo: 52pj.ico
           description: 老牌绿色软件站  
+        - title: A姐分享
+          url: https://www.ahhhhfs.com/
+          logo: ahhhhfs.png
+          description: 分享网络热门软件及技术  
+        - title: APP喵
+          url: https://www.appmiu.com/
+          logo: appmiao.png
+          description: 分享网络热门软件及技术  
     - term: 系统应用
       links:
         - title: 微PE工具箱
