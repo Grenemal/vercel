@@ -6,6 +6,10 @@
       logo: haidao.ico
       url: http://baoxiaobao.asia/baoxiaobao.html
       description: 聚合应用介绍
+    - title: 今日热榜
+      logo: tophub.ico
+      url: https://tophub.today/
+      description: 每日热榜
     - title: 不死鸟分享
       logo: iui.ico
       url: http://iui.su
@@ -56,7 +60,11 @@
         - title: Markdown
           logo: markdown.ico
           url: https://markdown.com.cn/
-          description: markdown语法教          
+          description: markdown语法教程
+        - title: 公式编写
+          logo: formula.ico
+          url: https://www.cnblogs.com/bytesfly/p/markdown-formula.html
+          description: markdown公式编写教程                    
         - title: 谷歌翻译
           logo: 谷歌翻译.ico
           url: https://translate.google.cn/
@@ -501,7 +509,22 @@
           url: https://www.iplaysoft.com/
           logo: iplaysoft.ico
           description: 质量很高的软件推荐网站，但是更新太慢
-
+        - title: 系统迷
+          url: https://www.xitmi.com/
+          logo: xitmi.ico
+          description: 聚焦互联网，分享精品资源
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
+          logo: ghxi.ico
+          description: 聚焦互联网，分享精品资源
+        - title: 亿破姐
+          url: https://www.ypojie.com/
+          logo: ypojie.ico
+          description: 老牌绿色软件站
+        - title: 52破解
+          url: https://www.52pojie.cn/
+          logo: 52pj.ico
+          description: 老牌绿色软件站  
     - term: 系统应用
       links:
         - title: 微PE工具箱
