@@ -217,22 +217,10 @@
           logo: nivod.ico
           url: https://www.nivod4.tv/
           description: 快速更新免费电视电影
-        - title: 動畫線上看
-          logo: 动漫.webp
-          url: https://anime1.me/
-          description: 上百部動畫在綫免費看~
-        - title: H动漫
-          logo: H动漫.jpg
-          url: https://hanime1.me/
-          description: 偷偷看 别被家长发现了
-        - title: 禁漫天堂
-          logo: jinman.ico
-          url: https://18comic.vip/
-          description: 日韩漫本子聚集地
-        - title: 巴卡漫画
-          logo: baka.png
-          url: https://bakamh.com/
-          description: bakamh巴卡漫画 韩漫
+        - title: 可可影视
+          logo: nivod.ico
+          url: https://www.keke12.com/
+          description: 快速更新免费电视电影
 
         # - title: Gamelabs
         #   logo: gl.ico
@@ -285,6 +273,34 @@
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
+
+    - term: 图片资源
+      links:
+        - title: 极简壁纸
+          url: https://bz.zzzmh.cn/index
+          logo: zzzmh.ico
+          description: 极简壁纸
+        - title: Pexels
+          url: https://www.pexels.com/
+          logo: pexels.ico
+          description: 免费摄影图像
+        - title: Wallpaperswide
+          url: https://wallpaperswide.com/
+          logo: wallpaperswide.ico
+          description: 精美壁纸网站
+        - title: 花瓣
+          url: https://huaban.com/
+          logo: huaban.ico
+          description: 精选摄影网站
+        - title: Cleanpng
+          url: https://www.cleanpng.com/
+          logo: cleanpng.ico
+          description: 精选png网站
+        - title: skalgubbar
+          url: https://skalgubbar.se/
+          logo: cleanpng.ico
+          description: 精选人物图像网站
+
     - term: 图标素材
       links:
         - title: Aconvert
@@ -544,6 +560,11 @@
           logo: hiddify.ico
           description: 全能的网站代理工具
 
+
+
+- taxonomy: 网络资源
+  icon: fa fa-chrome fa-lg
+  list:
     - term: 磁力搜索
       links:
         - title: 磁力猫
@@ -562,39 +583,6 @@
           url: https://duo6.cyou/
           logo: ciliduo.ico
           description: 磁力猫搜索
-
-- taxonomy: 网络资源
-  icon: fa fa-chrome fa-lg
-  list:
-    - term: 图片资源
-      links:
-        - title: 极简壁纸
-          url: https://bz.zzzmh.cn/index
-          logo: zzzmh.ico
-          description: 极简壁纸
-        - title: Pexels
-          url: https://www.pexels.com/
-          logo: pexels.ico
-          description: 免费摄影图像
-        - title: Wallpaperswide
-          url: https://wallpaperswide.com/
-          logo: wallpaperswide.ico
-          description: 精美壁纸网站
-        - title: 花瓣
-          url: https://huaban.com/
-          logo: huaban.ico
-          description: 精选摄影网站
-        - title: Cleanpng
-          url: https://www.cleanpng.com/
-          logo: cleanpng.ico
-          description: 精选png网站
-        - title: skalgubbar
-          url: https://skalgubbar.se/
-          logo: cleanpng.ico
-          description: 精选人物图像网站
-- taxonomy: ChatGPT
-  icon: fas fa-robot fa-lg
-  list:
     - term: AI应用
       links:
         - title: Newzone
