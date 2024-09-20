@@ -87,6 +87,10 @@
           url: https://cli.im/
           logo: cli.ico
           description: 自定义二维码生成
+        - title: favicon生成
+          url: https://favicon.io/
+          logo: favicon.png
+          description: 自定义二维码生成
 - taxonomy: 科研工具
   icon: fas fa-atom-alt fa-lg
   list:
@@ -115,7 +119,7 @@
         url: https://www.organic-chemistry.org/
         description: 类型丰富的有机合成教程
       - title: CommOrgChem
-        logo: coc.ico
+        logo: coc.png
         url: https://commonorganicchemistry.com/index.htm
         description: 实用的有机合成网站
       - title: organicchemistrydata
