@@ -9,7 +9,11 @@
     - title: 不死鸟分享
       logo: iui.ico
       url: http://iui.su
-      description: 不死鸟分享为王
+      description: 不死鸟分享为王  
+    - title: Indei-developer
+      logo: github.ico
+      url: https://github.com/1c7/chinese-independent-developer
+      description: 中国独立开发者项目列表 -- 分享大家都在做什么
     - title: Chatgpt镜像
       logo: chatgpt.ico
       url: https://gpt.anrsn.icu/
@@ -19,10 +23,10 @@
       url: https://github.com/Grenemal
       description: Grenemal的github
 
-- taxonomy: AI工具
+- taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: 常用收藏
+    - term: AI工具
       links:
         - title: Chatgpt
           logo: openai.ico
@@ -37,58 +41,13 @@
           url: https://claude.ai/
           description: Claude AI官方
         - title: 文心一言
-          logo: 123.png
+          logo: yiyan.ico
           url: https://yiyan.baidu.com/
-          description: 不百度的人工智能
-        - title: 1panel 
-          logo: 1panel.png
-          url: https://1panel.cn/
-          description: 开源的服务器web管理面板
-          description: 利用jsdelivr加速自己的图床
-        - title: GitHub主页美化
-          logo: fork.ico
-          url: https://zzetao.github.io/awesome-github-profile/
-          description: 查看GitHub开源作者的美化fork他们
-        - title: Runoob
-          logo: cainiao.ico
-          url: https://www.runoob.com/
-          description: Web菜鸟教程
-        - title: Markdown
-          logo: markdown.ico
-          url: https://markdown.com.cn/
-          description: markdown语法教程
-        - title: jQuery插件库
-          logo: jquary.ico
-          url: https://www.jq22.com/
-          description: 收集最全最新最好的js插件
-        - title: jQuery之家
-          logo: js之家.ico
-          url: http://www.htmleaf.com/
-          description: 扩展你的js插件库
-        - title: 像素大厨
-          logo: fancynode.png
-          url: https://www.fancynode.com.cn/
-          description: 从设计到代码，让团队高效协作
-        - title: Bootstrap Studio
-          logo: bs.ico
-          url: https://bootstrapstudio.io/
-          description: 编辑web网站，无需代码
-        - title: CodePen
-          logo: codepen.ico
-          url: https://codepen.io/
-          description: 免费下载css和js模板
-        - title: Zion
-          logo: zion.ico
-          url: https://www.functorz.com/
-          description: 无代码开发微信小程序
-        - title: Markdown-badges
-          logo: badges.png
-          url: https://ileriayo.github.io/markdown-badges/
-          description: 获取markdown写法的badges包
-        - title: 1panel 
-          logo: 1panel.png
-          url: https://1panel.cn/
-          description: 开源的服务器web管理面板
+          description: 百度的人工智能
+         - title: AI文本人性化
+          logo: renxinghua.ico
+          url: https://humanize.im/
+          description: 将AI生成的文本变成更加人性化的语言      
 
     - term: 办公学习
       links:
@@ -96,54 +55,50 @@
           logo: github.ico
           url: https://github.com/
           description: 最热门知名的开源网站
-        - title: GitLab
-          logo: gitlab.ico
-          url: https://about.gitlab.com/
-          description: 开源的代码托管平台，类似于GitHub
-        - title: Gitee
-          logo: gitee.ico
-          url: https://gitee.com/
-          description: GitHub中国镜像站代理
-        - title: R2coding
-          logo: r2c.ico
-          url: https://r2coding.com/
-          description: 编程自学之路，是自学编程以来所用资源和分享内容的大聚合
-        - title: 语雀
-          logo: 语雀.ico
-          url: https://www.yuque.com/
-          description: 优雅高效的在线文档编辑与协同工具
-        - title: 清华大学开源
-          logo: 清华开源.ico
-          url: https://mirror.tuna.tsinghua.edu.cn/
-          description: 具有全球影响力的开源软件镜像站点
-        - title: 有道词典
-          logo: 有道词典.ico
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译
+        - title: Markdown
+          logo: markdown.ico
+          url: https://markdown.com.cn/
+          description: markdown语法教          
         - title: 谷歌翻译
           logo: 谷歌翻译.ico
           url: https://translate.google.cn/
           description: 谷歌翻译
-        - title: Paperpass
-          logo: paperpass.ico
-          url: https://www.paperpass.com/
-          description: 论文查重，每天免费一篇
-        - title: CSDN
-          logo: csdn.ico
-          url: https://www.csdn.net/
-          description: 中国最大的专业技术社区，包含了众多IT领域的技术文章和技术问答
-        - title: 掘金
-          logo: 掘金.ico
-          url: https://juejin.cn/
-          description: 程序员交流社区和学习平台
-        - title: V2ex
-          logo: v2ex.ico
-          url: https://www.v2ex.com/
-          description: 由设计师、程序员及有创意的人参与的社区
+        - title: Deepl翻译
+          logo: deepl.png
+          url: https://www.deepl.com/
+          description: Deepl翻译
+        - title: 汉典
+          logo: handian.ico
+          url: https://www.zdic.net/
+          description: 汉语学习好网站
+
+    - term: 在线工具
+      links:
+        - title: 正则表达式
+          logo: zhengze.ico
+          url: https://www.jyshare.com/front-end/854/
+          description: 正则表达式测试网站
+        - title: 文本格式化工具
+          logo: markdown.ico
+          url: https://clean.justsong.cn/
+          description: 格式化文本，去除多余格式        
+        - title: fluorish
+          logo: fluorish.ico
+          url: https://app.flourish.studio/
+          description: 图标可视化网站
+        - title: Deepl翻译
+          logo: deepl.png
+          url: https://www.deepl.com/
+          description: Deepl翻译
         - title: Xmind
           logo: xmind.ico
           url: https://xmind.cn/
           description: 方便思维导图的使用
+        - title: 草料二维码
+          url: https://cli.im/
+          logo: cli.ico
+          description: 自定义二维码生成
+
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -368,6 +323,7 @@
           logo: giphy.png
           url: https://giphy.com/
           description: 快速搜索gif图
+    - term: 字体素材
       links:
         - title: 第一字体
           url: https://www.diyiziti.com/
@@ -417,7 +373,6 @@
           url: https://www.hellofont.cn/
           logo: ziyou.ico
           description: 千款字体，一键换字，设计早下班，作品更出众
-
     - term: PPT资源
       links:
         - title: Slidesgo
@@ -461,54 +416,38 @@
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
           
-- taxonomy: 推荐应用
+- taxonomy: 软件搜罗
   icon: fab fa-app-store-ios fa-lg
   list:
-    - term: 内网穿透
+    - term: 软件推荐
       links:
-        - title: ZeroTier
-          url: https://www.zerotier.com/
-          logo: zerotier.ico
-          description: P2P点对点端口映射，交互延迟低
-        - title: Frp
-          url: https://gofrp.org/
+        - title: 小众软件
+          url: https://www.appinn.com/
+          logo: xiaozhong.ico
+          description: 质量高、更新快的软件推荐网站
+        - title: Hellowwin系统下载
+          url: https://hellowindows.cn/
           logo: frp.ico
-          description: 简单、高效的内网穿透工具
-        - title: Nps Npc
-          url: https://github.com/ehang-io/nps
-          logo: nps.ico
-          description: 强大的内网穿透代理服务器
-        - title: NatFrp
-          url: https://www.natfrp.com/
-          logo: natfrp.ico
-          description: 樱花内网穿透，无需服务器映射
+          description: 简单、高效系统镜像下载网站
+        - title: 那些免费的软件
+          url: https://www.thosefree.com/
+          logo: thosefree.ico
+          description: 免费的软件、图标聚集地
+        - title: 异次元软件世界
+          url: https://www.iplaysoft.com/
+          logo: iplaysoft.ico
+          description: 质量很高的软件推荐网站，但是更新太慢
 
     - term: 系统应用
       links:
-        - title: iTellyou
-          url: https://next.itellyou.cn/
-          logo: itu.ico
-          description: 我告诉你，纯净的系统下载
         - title: 微PE工具箱
           url: https://www.wepe.com.cn
           logo: weipe.ico
           description: 使用工具箱制作U盘启动，快速重装系统
-        - title: FileCr
-          url: https://filecr.com/
-          logo: filecr.ico
-          description: 免费下载多款应用
-        - title: 草料二维码
-          url: https://cli.im/
-          logo: cli.ico
-          description: 自定义二维码生成
-        - title: 手办维基
-          url: https://www.hpoi.net/hobby/
-          logo: shouban.ico
-          description: 手办搜索购买
-        - title: 接码平台
-          url: https://sms-activate.org/
-          logo: sms.ico
-          description: sms手机接码服务
+        - title: hiddify
+          url: https://hiddify.com/
+          logo: hiddify.ico
+          description: 全能的网站代理工具
 
     - term: 磁力搜索
       links:
