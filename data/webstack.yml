@@ -88,7 +88,7 @@
           logo: cli.ico
           description: 自定义二维码生成
 - taxonomy: 科研工具
-  icon: fas fa-atom-alt
+  icon: fas fa-atom-alt fa-lg
   list:
     - term: 文章写作
       - title: 术语在线
@@ -141,7 +141,18 @@
         logo: fdm.ico
         url: https://www.fdmspectra.com/
         description: 红外光谱和拉曼光谱数据库
-
+      - title: ChemNMR
+        logo: fdm.ico
+        url: https://chem.ch.huji.ac.il/nmr/index.html
+        description: 核磁数据和教程网站 
+      - title: Bindfit
+        logo: fdm.ico
+        url: http://app.supramolecular.org/bindfit/
+        description: 在线超分子化学滴定拟合程序
+      - title: 光谱浏览器
+        logo: aatbio.ico
+        url: https://www.aatbio.com/fluorescence-excitation-emission-spectrum-graph-viewer
+        description: 在线超分子化学滴定拟合程序
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
