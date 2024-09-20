@@ -44,7 +44,7 @@
           logo: yiyan.ico
           url: https://yiyan.baidu.com/
           description: 百度的人工智能
-         - title: AI文本人性化
+        - title: AI文本人性化
           logo: renxinghua.ico
           url: https://humanize.im/
           description: 将AI生成的文本变成更加人性化的语言      
