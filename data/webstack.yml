@@ -10,6 +10,10 @@
       logo: tophub.ico
       url: https://tophub.today/
       description: 每日热榜
+    - title: 划水摸鱼
+      logo: huashuimoyu.ico
+      url: https://huashuimoyu.com/
+      description: 每日聚合资讯  
     - title: 不死鸟分享
       logo: iui.ico
       url: http://iui.su
@@ -77,6 +81,11 @@
           logo: handian.ico
           url: https://www.zdic.net/
           description: 汉语学习好网站
+        - title: doyoudu
+          logo: doyoudu.ico
+          url: https://www.doyoudo.com/
+          description: 学设计的好网站
+
     - term: 在线工具
       links:
         - title: 正则表达式
@@ -549,6 +558,10 @@
           url: https://www.appmiu.com/
           logo: appmiao.png
           description: 分享网络热门软件及技术  
+        - title: 奔跑中的奶酪
+          url: https://www.runningcheese.com/
+          logo: runningcheese.ico
+          description: 崇尚科技和高效，网站致力于个人提升和价值分享  
     - term: 系统应用
       links:
         - title: 微PE工具箱
@@ -565,6 +578,20 @@
 - taxonomy: 网络资源
   icon: fa fa-chrome fa-lg
   list:
+    - term: 网站导航
+      links:
+        - title: 有趣网址之家
+          url: https://youquhome.com/
+          logo: youquhong.ico
+          description: 收藏全球最有趣的网站
+        - title: 小棉袄
+          url: https://haikuoshijie.cn/
+          logo: haikuoshijie.ico
+          description: 小棉袄的百味人生
+        - title: 哎哟不错
+          url: https://aiyoubucuo.com/
+          logo: aiyoubucuo.ico
+          description: 每天看一看总有新东西
     - term: 磁力搜索
       links:
         - title: 磁力猫
