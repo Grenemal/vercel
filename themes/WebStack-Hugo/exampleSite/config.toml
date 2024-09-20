@@ -9,8 +9,8 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 
 [params]
-    author        = "ikirito"
-    description   = "Grenemal | Hugo WebStack BY ikirito"
+    author        = "Grenemal"
+    description   = "Grenemal | Hugo WebStack BY Grenemal"
     upload        = "#"  # 左侧导航栏的"网站提交"
     about         = "https://github.com/shenweiyan/WebStack-Hugo"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/i-kirito"  

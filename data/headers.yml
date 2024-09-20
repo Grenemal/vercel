@@ -8,7 +8,7 @@
 
 - item: 博客
   icon: fa fa-blog
-  link: https://fluolab.cn
+  link: https://www.fluolab.cn
 
 - item: 关于
   icon: fa fa-cog
@@ -22,4 +22,4 @@
       link: "https://fontawesome.com/"
     - name: 文档
       icon: fas fa-file-alt
-      link: "https://fluolab.cn"
+      link: "https://www.fluolab.cn"
