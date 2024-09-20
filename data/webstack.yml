@@ -33,7 +33,7 @@
           description: OpeanAi官方
         - title: Gemini
           logo: google-gemini-icon.svg
-          url: https://gemini.com/
+          url: https://gemini.google.com/
           description: Google AI
         - title: Claude
           logo: claude-ai-icon.svg
