@@ -112,6 +112,13 @@
           url: https://favicon.io/
           logo: favicon.png
           description: 自定义二维码生成
+        - title: Space封面
+          url: https://spacexcode.com/
+          logo:
+          description: 简洁的封面生成工具
+          
+
+          
 - taxonomy: 科研工具
   icon: fas fa-atom fa-lg
   list:
