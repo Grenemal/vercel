@@ -246,6 +246,12 @@
         - title: cjkgirls
           logo: nivod.ico
           url: https://cjkgirls.com/
+          description: 一个全是JK小姐姐视频网站
+        - title: 日式JK
+          logo: nivod.ico
+          url: https://www.jk.rs/
+          description: 一个全是日式JK女孩的网站
+          
 
         # - title: Gamelabs
         #   logo: gl.ico
@@ -592,7 +598,10 @@
           url: https://hiddify.com/
           logo: hiddify.ico
           description: 全能的网站代理工具
-
+        - title: 柚坛工具箱
+          logo: naviod.ico
+          url: http://toolbox.uotan.cn/
+          description: 全能的手机刷机工具
 
 
 - taxonomy: 网络资源
@@ -630,6 +639,12 @@
           url: https://duo6.cyou/
           logo: ciliduo.ico
           description: 磁力猫搜索
+    - term: 软件资源
+      links:
+        - title: Ylove书源仓库
+          logo:
+          url: https://shuyuan.yiove.com/
+          description: 这是一个专为小说阅读爱好者设计的平台。我们的目标是为广大读者提供便捷、丰富的小说书源配置文件，让你能够在各种阅读 APP 上轻松搜索到心仪的小说
     - term: AI应用
       links:
         - title: Newzone
