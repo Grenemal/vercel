@@ -251,7 +251,21 @@
           logo: nivod.ico
           url: https://www.jk.rs/
           description: 一个全是日式JK女孩的网站
-          
+
+    - term: 文字小说
+      links:
+        - title: Ylove书源仓库
+          logo:
+          url: https://shuyuan.yiove.com/
+          description: 这是一个专为小说阅读爱好者设计的平台。我们的目标是为广大读者提供便捷、丰富的小说书源配置文件，让你能够在各种阅读 APP 上轻松搜索到心仪的小说
+        - title: AOAOSTAR阅读书源
+          logo:
+          url: https://legado.aoaostar.com/
+          description: 一些「阅读」小说书源、订阅源、主题、排版配置
+        - title: SaltyLeo 的书架
+          logo:
+          url: https://book.tstrs.me/search
+          description: 可聚合搜索全网电子书
 
         # - title: Gamelabs
         #   logo: gl.ico
@@ -335,6 +349,14 @@
           url: https://public.work/
           logo: 
           description: 超过100，000万张免版权的图片
+        - title: 哲风壁纸
+          url: https://haowallpaper.com/
+          logo:
+          description: 设计感很强的壁纸网站
+        - title: VaveBG
+          url: https://vavebg.com/
+          logo:
+          description: 一个 AI 图库
 
     - term: 图标素材
       links:
@@ -639,12 +661,7 @@
           url: https://duo6.cyou/
           logo: ciliduo.ico
           description: 磁力猫搜索
-    - term: 软件资源
-      links:
-        - title: Ylove书源仓库
-          logo:
-          url: https://shuyuan.yiove.com/
-          description: 这是一个专为小说阅读爱好者设计的平台。我们的目标是为广大读者提供便捷、丰富的小说书源配置文件，让你能够在各种阅读 APP 上轻松搜索到心仪的小说
+
     - term: AI应用
       links:
         - title: Newzone
