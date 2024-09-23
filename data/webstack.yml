@@ -3,7 +3,7 @@
   icon: far fa-star
   links:
     - title: 宝小报
-      logo: haidao.ico
+      logo: baoxiaobao.png
       url: http://baoxiaobao.asia/baoxiaobao.html
       description: 聚合应用介绍
     - title: 今日热榜
@@ -114,7 +114,7 @@
           description: 自定义二维码生成
         - title: Space封面
           url: https://spacexcode.com/
-          logo:
+          logo: spacexcode.ico
           description: 简洁的封面生成工具
           
 
@@ -234,36 +234,36 @@
           url: https://www.nivod4.tv/
           description: 快速更新免费电视电影
         - title: 可可影视
-          logo: nivod.ico
+          logo: www.keke12.png
           url: https://www.keke12.com/
           description: 快速更新免费电视电影
         - title: 随机小姐姐
-          logo: nivod.ico
+          logo: xjj.7xnn.ico
           url: https://xjj.7xnn.cn
           description: 一个在线随机小姐姐视频网站
     - term: 美女图片
       links:
         - title: cjkgirls
-          logo: nivod.ico
+          logo: cjkgirls.ico
           url: https://cjkgirls.com/
           description: 一个全是JK小姐姐视频网站
         - title: 日式JK
           logo: nivod.ico
-          url: https://www.jk.rs/
+          url: jk.png
           description: 一个全是日式JK女孩的网站
 
     - term: 文字小说
       links:
         - title: Ylove书源仓库
-          logo:
+          logo: shuyuan.yiove.ico
           url: https://shuyuan.yiove.com/
           description: 这是一个专为小说阅读爱好者设计的平台。我们的目标是为广大读者提供便捷、丰富的小说书源配置文件，让你能够在各种阅读 APP 上轻松搜索到心仪的小说
         - title: AOAOSTAR阅读书源
-          logo:
+          logo: legado.aoaostar.ico
           url: https://legado.aoaostar.com/
           description: 一些「阅读」小说书源、订阅源、主题、排版配置
         - title: SaltyLeo 的书架
-          logo:
+          logo: book.tstrs.png
           url: https://book.tstrs.me/search
           description: 可聚合搜索全网电子书
 
@@ -343,19 +343,19 @@
           description: 精选png网站
         - title: skalgubbar
           url: https://skalgubbar.se/
-          logo: cleanpng.ico
+          logo: skalgubbar.png
           description: 精选人物图像网站
         - title: 无版权图片
           url: https://public.work/
-          logo: 
+          logo: public.png
           description: 超过100，000万张免版权的图片
         - title: 哲风壁纸
           url: https://haowallpaper.com/
-          logo:
+          logo: haowallpaper.ico
           description: 设计感很强的壁纸网站
         - title: VaveBG
           url: https://vavebg.com/
-          logo:
+          logo: vavebg.png
           description: 一个 AI 图库
 
     - term: 图标素材
@@ -621,7 +621,7 @@
           logo: hiddify.ico
           description: 全能的网站代理工具
         - title: 柚坛工具箱
-          logo: naviod.ico
+          logo: toolbox.uotan.png
           url: http://toolbox.uotan.cn/
           description: 全能的手机刷机工具
 
