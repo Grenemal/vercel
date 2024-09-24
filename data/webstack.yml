@@ -248,8 +248,8 @@
           url: https://cjkgirls.com/
           description: 一个全是JK小姐姐视频网站
         - title: 日式JK
-          logo: nivod.ico
-          url: jk.png
+          logo: jk.png
+          url: jk.rs
           description: 一个全是日式JK女孩的网站
 
     - term: 文字小说
@@ -266,6 +266,10 @@
           logo: book.tstrs.png
           url: https://book.tstrs.me/search
           description: 可聚合搜索全网电子书
+        - title: 爱看电子书下载
+          logo:
+          url: https://ixdzs8.com/
+          description: 一个电子书很全的下载网站
 
         # - title: Gamelabs
         #   logo: gl.ico
