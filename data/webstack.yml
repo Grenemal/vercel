@@ -267,7 +267,7 @@
           url: https://book.tstrs.me/search
           description: 可聚合搜索全网电子书
         - title: 爱看电子书下载
-          logo:
+          logo: ixdzs8.png
           url: https://ixdzs8.com/
           description: 一个电子书很全的下载网站
 
@@ -364,6 +364,10 @@
 
     - term: 图标素材
       links:
+        - title: 国内图标下载
+          logo: svglogo.svg
+          url: https://svglogo.top/
+          description: 一个专门收录国内大学校徽和知名公司矢量商标以及大量气象预警图标的网站
         - title: Aconvert
           logo: ac.ico
           url: https://www.aconvert.com/
@@ -628,6 +632,10 @@
           logo: toolbox.uotan.png
           url: http://toolbox.uotan.cn/
           description: 全能的手机刷机工具
+        - title: Caesium 
+          logo: caesium.png
+          url: https://saerasoft.com/caesium
+          description: 一款免费好用的图片压缩软件，界面简洁，支持中文界面，图片压缩效果很好，使用的很简单。
 
 
 - taxonomy: 网络资源
