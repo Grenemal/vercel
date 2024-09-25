@@ -32,8 +32,8 @@
       description: 不需要加速也能上
     - title: GitHub
       logo: github.ico
-      url: https://github.com/Grenemal
-      description: Grenemal的github
+      url: https://github.com/Kjoy
+      description: Kjoy的github
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
@@ -59,6 +59,10 @@
           logo: renxinghua.ico
           url: https://humanize.im/
           description: 将AI生成的文本变成更加人性化的语言      
+        - title: 橙篇
+          logo: cp.baidu.ico
+          url: https://cp.baidu.com/
+          description: 支持长文生成、深度编辑和多模态创作，帮助用户理解、总结和获取信息
     - term: 办公学习
       links:
         - title: Markdown
@@ -251,6 +255,14 @@
           logo: jk.png
           url: https://jk.rs
           description: 一个全是日式JK女孩的网站
+        - title: Socialgirls
+          url: https://socialgirls.im/
+          logo: socialgirls.svg
+          description: 一个专门收集优质社交账号信息、照片的网站
+        - title: Ins推荐
+          url: https://www.ikanins.com/
+          logo: www.ikanins.ico
+          description: 一个Instagram网红女同学推荐网站
 
     - term: 文字小说
       links:
@@ -636,6 +648,10 @@
           logo: caesium.png
           url: https://saerasoft.com/caesium
           description: 一款免费好用的图片压缩软件，界面简洁，支持中文界面，图片压缩效果很好，使用的很简单。
+        - title: PDF补丁
+          logo: www.cnblogs.svg
+          url: https://www.cnblogs.com/pdfpatcher?from=thosefree.com
+          description: 功能全面、使用简单的PDF处理软件，PDF书签处理最强大的软件
 
 
 - taxonomy: 网络资源

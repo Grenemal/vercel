@@ -2,7 +2,7 @@
 title: "webstack"
 date: 2023-03-30T18:50:00
 draft: true
-web: https://nav.wjgong.us.kg/
+web: https://nav.wanshua.us.kg/
 ---
 
 ## 这是 Hugo 版 WebStack 主题
